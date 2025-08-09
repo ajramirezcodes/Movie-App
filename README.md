@@ -11,39 +11,15 @@ Powered by The Movie Database (TMDb) API.
 - Movie details including title, rating, release year, and language  
 - Placeholder image when movie poster is unavailable  
 
-## Installation
+## Live Demo
 
-1. Clone the repo  
-```bash
-git clone https://github.com/ajramirezcodes/Movie-App.git
-```
-
-2. Install dependencies  
-```bash
-npm install
-```
-
-3. Start the app  
-```bash
-npm start
-```
-
-Open your browser at `http://localhost:3000` to view the app.
+Try the app here: [https://ajramirezcodes.github.io/Movie-App/](https://ajramirezcodes.github.io/Movie-App/)
 
 ## Technologies
 
 - React  
 - Tailwind CSS  
 - The Movie Database API  
-- Custom debounce hook for performance optimization  
-
-## API Key
-
-This app requires a TMDb API key. Get yours at [TMDb API](https://www.themoviedb.org/documentation/api).
-
-## Live Demo
-
-[https://ajramirezcodes.github.io/Movie-App/](https://ajramirezcodes.github.io/Movie-App/)
 
 ## License
 
